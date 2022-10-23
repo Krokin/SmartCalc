@@ -2,8 +2,6 @@
 
 Implementation of SmartCalc v1.0.
 
-## Chapter III
-
 ## Part 1. Implementation of SmartCalc v1.0
 
 The SmartCalc v1.0 program must be implemented:
